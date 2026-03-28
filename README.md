@@ -1,0 +1,1 @@
+.\.venv\Scripts\python.exe -m uvicorn cn2.api:app --reload

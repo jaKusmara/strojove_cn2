@@ -1,0 +1,98 @@
+[
+  {
+    "complex": [
+      [
+        "Outlook",
+        "Overcast"
+      ]
+    ],
+    "score": 0.9,
+    "prediction": "Yes",
+    "coverage": 8,
+    "counts": {
+      "Yes": 8
+    }
+  },
+  {
+    "complex": [
+      [
+        "Humidity",
+        "Normal"
+      ],
+      [
+        "Wind",
+        "Weak"
+      ]
+    ],
+    "score": 0.875,
+    "prediction": "Yes",
+    "coverage": 6,
+    "counts": {
+      "Yes": 6
+    }
+  },
+  {
+    "complex": [
+      [
+        "Humidity",
+        "High"
+      ],
+      [
+        "Outlook",
+        "Sunny"
+      ]
+    ],
+    "score": 0.8571428571428571,
+    "prediction": "No",
+    "coverage": 5,
+    "counts": {
+      "No": 5
+    }
+  },
+  {
+    "complex": [
+      [
+        "Outlook",
+        "Rain"
+      ],
+      [
+        "Wind",
+        "Strong"
+      ]
+    ],
+    "score": 0.8571428571428571,
+    "prediction": "No",
+    "coverage": 5,
+    "counts": {
+      "No": 5
+    }
+  },
+  {
+    "complex": [
+      [
+        "Outlook",
+        "Sunny"
+      ]
+    ],
+    "score": 0.75,
+    "prediction": "Yes",
+    "coverage": 2,
+    "counts": {
+      "Yes": 2
+    }
+  },
+  {
+    "complex": [
+      [
+        "Outlook",
+        "Rain"
+      ]
+    ],
+    "score": 0.75,
+    "prediction": "Yes",
+    "coverage": 2,
+    "counts": {
+      "Yes": 2
+    }
+  }
+]
